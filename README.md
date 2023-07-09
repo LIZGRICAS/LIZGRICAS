@@ -9,9 +9,9 @@
 
 <h2 align="center">🌱 Mis habilidades</h2>
 
----
 
-<h4 align="center" >💻 Lenguajes de Programación y de maquetación </h4>
+
+<h4 align="center" width="100%" >💻 Lenguajes de Programación y de maquetación </h4>
 
 
 
