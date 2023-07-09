@@ -11,7 +11,7 @@
 
 
 
-<h4 align="center" width="100%" >💻 Lenguajes de Programación y de maquetación </h4>
+<h4 align="center"  >💻 Lenguajes de Programación y de maquetación </h4>
 
 
 
@@ -25,7 +25,7 @@
 
 
 
-<h4 align="center">📚 Frameworks, Librerías y Software ⚙</h4>
+<h4 align="center" width="80%">📚 Frameworks, Librerías y Software ⚙</h4>
 
 
 
