@@ -1,4 +1,4 @@
-![Vídeo sin título - Made with Clipchamp](https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/65c2beac-5a05-4907-b3a0-ec1b216806ca)![Vídeo sin título - Made with Clipchamp](https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/f3d5d442-8911-49fa-85eb-6d4322401815)﻿### 👋 ¡ Hola soy Lizbeth! 
+﻿### 👋 ¡ Hola soy Lizbeth! 
 <img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'> 
 
 ---
@@ -64,7 +64,12 @@
 | <p>E-commerce HTML, CSS y Javascript, Fiberbase-json-server</p> <a href="https://github.com/LIZGRICAS/Challenge-ONE-Sprint-02---AluraGeek" target="_blank">`Repository`</a> <a href="https://alura-ecommerce.web.app/" target="_blank">Website</a> |  <p>Portafolio con más proyectos desarrollados</p> <a href="https://github.com/LIZGRICAS/Trabajo-Final-Poli" target="_blank">`Repository`</a> <a href="https://portafoliolizbethgrisales.netlify.app/" target="_blank">Website</a> |
 <br/>
 ---
-
+| <a href="https://github.com/LIZGRICAS/Web-3D-WorkShop" target="_blank">**Web-3D-WorkShop**</a> | <a href="https://github.com/LIZGRICAS/Challenge-ONE-Sprint-02---AluraGeek">**Ecommerce Alura**</a> | <a href="https://github.com/LIZGRICAS/WhatsAppApi" target="_blank">**WhatsAppApi**</a> | <a href="https://cartagena-cooks.netlify.app/" target="_blank">**Proyecto SAPIENCIA**</a>  |
+| :---: | :---: | :---: | :---: |
+<img align='center' width="200px" src='https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/fd8b239f-d876-4ade-a739-ef6f0797c213' height='100px'> | <img align='center' src='![DS4A](https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/a6285acc-3435-435e-a498-9cadbdf4ce16)' width="200px" height='100px'> | <img align='center' width="200px" src='https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/1cc14f6f-85f2-451e-81aa-237d3a864059' height='100px'>  | <<img align='center' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width="100px"  height='100px'> |
+| <p>App Web3D con React Three Fiber y Metaverso.</p> <a href="https://github.com/LIZGRICAS/Web-3D-WorkShop/tree/main" target="_blank">`Repository`</a> | <p>Exploración, análisis y visualización de datos en dashboard</p> <a href="https://github.com/LIZGRICAS/AppSaludMental" target="_blank">`Repository`</a> <a href="https://saludmentalbogota2021.netlify.app/" target="_blank">Website</a> | <p>WhatsApp API, NodeJS, ChatGPT-Bot con Azure</p> <a href="https://github.com/LIZGRICAS/WhatsAppApi" target="_blank">`Repository`</a> |  <p>Diseño de página web con Copywriting, UX/UI, HTML5, CSS3, JS</p> <a href="https://github.com/brayanospina2005/cartagenacooks.git" target="_blank">`Repository`</a> <a href="https://cartagena-cooks.netlify.app/" target="_blank">Website</a> |
+<br/>
+---
 
   
 | <a href="https://github.com/LIZGRICAS/Web-3D-WorkShop" target="_blank">**Web-3D-WorkShop**</a> | <a href="https://github.com/LIZGRICAS/Challenge-ONE-Sprint-02---AluraGeek">**Ecommerce Alura**</a> | <a href="https://github.com/LIZGRICAS/WhatsAppApi" target="_blank">**WhatsAppApi**</a> | <a href="https://cartagena-cooks.netlify.app/" target="_blank">**Proyecto SAPIENCIA**</a>  |
