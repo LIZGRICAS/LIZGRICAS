@@ -70,8 +70,6 @@
 <br/>
 ---
 
-![Vídeo sin título - Made with Clipchamp (1)](https://github.com/LIZGRICAS/LIZGRICAS/assets/102168375/6c21cc9c-d1e1-43a7-82e4-5c30fd9a43cd)
-
 
 #### ✉️ Contactamé
 
