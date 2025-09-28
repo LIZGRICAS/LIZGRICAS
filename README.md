@@ -3,7 +3,7 @@
 
 ---
 
-#### Soy desarrolladora frontend con experiencia en JavaScript, React, ThreeJS y Nodejs. Aprendo rápido y colaboro estrechamente con los clientes para crear soluciones eficientes, escalables y fáciles de usar que resuelvan problemas del mundo real. ¡Trabajemos juntos para hacer realidad tus ideas!
+#### Soy desarrolladora frontend con experiencia en Python, JavaScript, React, ThreeJS y Nodejs. Aprendo rápido y colaboro estrechamente con los clientes para crear soluciones eficientes, escalables y fáciles de usar que resuelvan problemas del mundo real. ¡Trabajemos juntos para hacer realidad tus ideas!
 
 ---
 
@@ -90,3 +90,4 @@
 #### 😎 Random Joke
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?borderColor=%23FFF&bgColor=%2322272E)
+
