@@ -14,7 +14,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 <h2 align="center">🚀 Áreas de especialización</h2>
 
 <h4 align="center"  >📊 Business Analysis</h4>
-####▸Levantamiento de requerimientos
+▸Levantamiento de requerimientos
 ▸Análisis funcional
 ▸Documentación de procesos
 ▸Historias de usuario
@@ -23,7 +23,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Product Discovery
 
 <h2 align="center">🤖 Automatización e Inteligencia Artificial</h2>
-####▸Python
+▸Python
 ▸n8n
 ▸APIs
 ▸IA Generativa
@@ -31,7 +31,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Integración de servicios
 
 <h2 align="center">📈 Datos</h2>
-####▸SQL
+▸SQL
 ▸PostgreSQL
 ▸MySQL
 ▸MongoDB
@@ -40,7 +40,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Data Analysis
 
 <h2 align="center">☁ Infraestructura</h2>
-####▸Docker
+▸Docker
 ▸Git
 ▸GitHub
 ▸Azure DevOps
@@ -55,14 +55,16 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D5DF6?style=for-the-badge&logo=make&logoColor=white)
 
 <h4 align="center" width="80%">📚 Frameworks, Librerías y Software ⚙</h4>
 
 
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -80,7 +82,10 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 
 ---
 
