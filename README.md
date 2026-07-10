@@ -14,7 +14,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 <h2 align="center">🚀 Áreas de especialización</h2>
 
 <h4 align="center"  >📊 Business Analysis</h4>
-▸Levantamiento de requerimientos
+####▸Levantamiento de requerimientos
 ▸Análisis funcional
 ▸Documentación de procesos
 ▸Historias de usuario
@@ -23,7 +23,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Product Discovery
 
 <h2 align="center">🤖 Automatización e Inteligencia Artificial</h2>
-▸Python
+####▸Python
 ▸n8n
 ▸APIs
 ▸IA Generativa
@@ -31,7 +31,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Integración de servicios
 
 <h2 align="center">📈 Datos</h2>
-▸SQL
+####▸SQL
 ▸PostgreSQL
 ▸MySQL
 ▸MongoDB
@@ -40,7 +40,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Data Analysis
 
 <h2 align="center">☁ Infraestructura</h2>
-▸Docker
+####▸Docker
 ▸Git
 ▸GitHub
 ▸Azure DevOps
@@ -48,6 +48,7 @@ Actualmente desarrollo proyectos relacionados con inteligencia artificial, autom
 ▸Vercel
 
 <h4 align="center"  >💻 Desarrollo de Software</h4>
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
