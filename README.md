@@ -2,19 +2,52 @@
 <img align='right' src='https://octodex.github.com/images/femalecodertocat.png' width='25%'> 
 
 ---
+#### Business Analyst | Functional Analysis | Digital Transformation | AI Automation
+#### Transformo necesidades de negocio en soluciones digitales mediante análisis funcional, optimización de procesos, automatización y desarrollo de software.
 
-#### Soy desarrolladora frontend con experiencia en Python, JavaScript, React, ThreeJS y Nodejs. Aprendo rápido y colaboro estrechamente con los clientes para crear soluciones eficientes, escalables y fáciles de usar que resuelvan problemas del mundo real. ¡Trabajemos juntos para hacer realidad tus ideas!
+ Mi experiencia integra negocio, tecnología y gestión del riesgo para diseñar soluciones que mejoran procesos, fortalecen la toma de decisiones y generan valor sostenible en las organizaciones.
+
+Actualmente desarrollo proyectos relacionados con inteligencia artificial, automatización, análisis de datos y transformación digital, explorando cómo la tecnología puede resolver problemas reales del negocio.
 
 ---
 
-<h2 align="center">🌱 Mis habilidades</h2>
+<h2 align="center">🚀 Áreas de especialización</h2>
 
+<h4 align="center"  >📊 Business Analysis</h4>
+▸Levantamiento de requerimientos
+▸Análisis funcional
+▸Documentación de procesos
+▸Historias de usuario
+▸BPMN
+▸Optimización de procesos
+▸Product Discovery
 
+<h2 align="center">🤖 Automatización e Inteligencia Artificial</h2>
+▸Python
+▸n8n
+▸APIs
+▸IA Generativa
+▸Automatización de procesos
+▸Integración de servicios
 
-<h4 align="center"  >💻 Lenguajes de Programación y de maquetación </h4>
+<h2 align="center">📈 Datos</h2>
+▸SQL
+▸PostgreSQL
+▸MySQL
+▸MongoDB
+▸Power BI
+▸Excel
+▸Data Analysis
 
+<h2 align="center">☁ Infraestructura</h2>
+▸Docker
+▸Git
+▸GitHub
+▸Azure DevOps
+▸Firebase
+▸Vercel
 
-
+<h4 align="center"  >💻 Desarrollo de Software</h4>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -50,7 +83,7 @@
 
 ---
 
-<h2 align="center">🚀 Proyectos</h2>
+<h2 align="center">📂 Proyectos Destacados</h2>
 <p align="center">Echa un vistazo a mis proyectos más destacados.</p>
 
 
